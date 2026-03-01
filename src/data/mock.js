@@ -5,8 +5,8 @@ export const clinicInfo = {
   tagline: "Your Trusted Dentist in Aliganj, Lucknow",
   description:
     "Advanced and comfortable dental treatments with 4.8★ patient satisfaction in Aliganj, Lucknow.",
-  phone: "+91 94155 92996",
-  whatsapp: "+919415592996",
+  phone: "+91 90449 14653",
+  whatsapp: "+919044914653",
   email: "contact@goviladental.com",
   address:
     "Purania Chauraha, D-3, Sector H, near Mahalaxmi Sweet House, Aliganj, Lucknow, Uttar Pradesh 226024",
