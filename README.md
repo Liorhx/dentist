@@ -1,17 +1,139 @@
-# React + Vite
+#Govila Dental Consultation Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive dental clinic website built with React, Tailwind CSS, and React Router, showcasing services, testimonials, booking forms, and location integration.
 
-Currently, two official plugins are available:
+Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Project Overview
 
-## React Compiler
+Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Screenshots
 
-## Expanding the ESLint configuration
+Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# dentist" 
+Usage
+
+Technologies Used
+
+Folder Structure
+
+Contributing
+
+License
+
+Project Overview
+
+Govila Dental Consultation website is designed to provide an intuitive and professional experience for patients:
+
+Display clinic information and services
+
+Show real before/after patient results
+
+Interactive FAQ and testimonials
+
+Online appointment booking with instant confirmation
+
+Google Maps integration for easy navigation
+
+Fully responsive for desktop, tablet, and mobile
+
+Features
+
+Responsive Design: Works seamlessly on all devices
+
+Booking Form: Requests submitted by patients
+
+Testimonials Carousel: Automatic sliding of reviews
+
+Before/After Gallery: Interactive patient results
+
+Interactive FAQ Section: Expandable questions
+
+Google Maps Embed: Clinic location displayed
+
+Professional UI: Tailwind CSS-based modern styling
+
+Screenshots
+Home Page (assets/SSHome.png)
+
+Services Section (assets/SSServices.png)
+
+Booking Form (assets/SSAppointment.png)
+
+Testimonials (assets/SSReviews.png)
+
+Contact & Map Section (assets/SSContact&Map.png)
+
+Installation
+
+Clone the repository
+
+git clone https://github.com/Liorhx/dentist.git
+
+Navigate to the project directory
+
+cd govila-dental
+
+Install dependencies
+
+npm install
+
+Start the development server
+
+npm run dev
+
+Open http://localhost:5173
+in your browser.
+
+Usage
+
+Navigate through the Home, About, Services, Reviews, and Contact pages.
+
+Submit an appointment request via the booking form.
+
+Click Call Now to call the clinic directly from desktop or mobile.
+
+View clinic location on Google Maps.
+
+Technologies Used
+
+React – Frontend library
+
+Tailwind CSS – Styling framework
+
+React Router DOM – Routing between pages
+
+Lucide Icons – Icons
+
+Vite – Development build tool
+
+Folder Structure
+govila-dental/
+├─ public/
+├─ src/
+│ ├─ assets/ # Images and media
+│ ├─ components/ # Reusable components (ServiceCard, TestimonialCard, Navbar)
+│ ├─ data/ # Mock data (clinic info, services, testimonials)
+│ ├─ pages/ # Page components (Home, Services, Contact, etc.)
+│ ├─ App.jsx
+│ ├─ main.jsx
+│ └─ App.css
+├─ package.json
+└─ README.md
+Contributing
+
+Fork the repository
+
+Create your branch: git checkout -b feature/your-feature
+
+Commit your changes: git commit -m 'Add some feature'
+
+Push to the branch: git push origin feature/your-feature
+
+Open a Pull Request
+
+License
+
+This project is open source and available under the MIT License
+.
