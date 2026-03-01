@@ -47,23 +47,23 @@ Govila Dental Consultation website is designed to provide an **intuitive and pro
 
 ### Home Page
 
-![Home Page](assets/SSHome.png)
+![Home Page](src/assets/SSHome.png)
 
 ### Services Section
 
-![Services Section](assets/SSServices.png)
+![Services Section](src/assets/SSServices.png)
 
 ### Booking Form
 
-![Booking Form](assets/SSAppointment.png)
+![Booking Form](src/assets/SSAppointment.png)
 
 ### Testimonials
 
-![Testimonials](assets/SSReviews.png)
+![Testimonials](src/assets/SSReviews.png)
 
 ### Contact & Map Section
 
-![Contact & Map Section](assets/SSContactMap.png)
+![Contact & Map Section](src/assets/SSContactMap.png)
 
 ---
 
