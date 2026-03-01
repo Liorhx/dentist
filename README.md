@@ -63,7 +63,7 @@ Govila Dental Consultation website is designed to provide an **intuitive and pro
 
 ### Contact & Map Section
 
-![Contact & Map Section](src/assets/SSContactMap.png)
+![Contact & Map Section](src/assets/SSContact&Map.png)
 
 ---
 
